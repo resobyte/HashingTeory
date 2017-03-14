@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1463735139 source:c:\users\resobyte\desktop\hash\hash\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	"OgrenciBilgileri.h"
+	"Katlama.h"
+	"BolenKalan.h"
+	"KareOrtasi.h"
+
+1463697633 c:\users\resobyte\desktop\hash\hash\include\ogrencibilgileri.h
+	<iostream>
+	<string>
+
+1463694986 c:\users\resobyte\desktop\hash\hash\include\katlama.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463697633 c:\users\resobyte\desktop\hash\hash\include\bolenkalan.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463695141 c:\users\resobyte\desktop\hash\hash\include\kareortasi.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463611975 source:c:\users\resobyte\desktop\hash\hash\src\bolenkalan.cpp
+
+1463612056 source:c:\users\resobyte\desktop\hash\hash\src\kareortasi.cpp
+
+1463612084 source:c:\users\resobyte\desktop\hash\hash\src\katlama.cpp
+
+1463611918 source:c:\users\resobyte\desktop\hash\hash\src\ogrencibilgileri.cpp
+
+1463698510 source:c:\users\resobyte\desktop\hash\hash\hash\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	"OgrenciBilgileri.h"
+	"Katlama.h"
+	"BolenKalan.h"
+	"KareOrtasi.h"
+
+1463697633 c:\users\resobyte\desktop\hash\hash\hash\include\ogrencibilgileri.h
+	<iostream>
+	<string>
+
+1463694986 c:\users\resobyte\desktop\hash\hash\hash\include\katlama.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463697633 c:\users\resobyte\desktop\hash\hash\hash\include\bolenkalan.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463695141 c:\users\resobyte\desktop\hash\hash\hash\include\kareortasi.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463611975 source:c:\users\resobyte\desktop\hash\hash\hash\src\bolenkalan.cpp
+
+1463612056 source:c:\users\resobyte\desktop\hash\hash\hash\src\kareortasi.cpp
+
+1463612084 source:c:\users\resobyte\desktop\hash\hash\hash\src\katlama.cpp
+
+1463611918 source:c:\users\resobyte\desktop\hash\hash\hash\src\ogrencibilgileri.cpp
+
+1463698510 source:c:\users\mr.robot\desktop\hash\hash\hash\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	"OgrenciBilgileri.h"
+	"Katlama.h"
+	"BolenKalan.h"
+	"KareOrtasi.h"
+
+1463697633 c:\users\mr.robot\desktop\hash\hash\hash\include\ogrencibilgileri.h
+	<iostream>
+	<string>
+
+1463694986 c:\users\mr.robot\desktop\hash\hash\hash\include\katlama.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463697633 c:\users\mr.robot\desktop\hash\hash\hash\include\bolenkalan.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463695141 c:\users\mr.robot\desktop\hash\hash\hash\include\kareortasi.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463611975 source:c:\users\mr.robot\desktop\hash\hash\hash\src\bolenkalan.cpp
+
+1463612056 source:c:\users\mr.robot\desktop\hash\hash\hash\src\kareortasi.cpp
+
+1463612084 source:c:\users\mr.robot\desktop\hash\hash\hash\src\katlama.cpp
+
+1463611918 source:c:\users\mr.robot\desktop\hash\hash\hash\src\ogrencibilgileri.cpp
+
+1463611975 source:c:\users\resobyte\desktop\resat\hash\hash\hash\src\bolenkalan.cpp
+
+1463612056 source:c:\users\resobyte\desktop\resat\hash\hash\hash\src\kareortasi.cpp
+
+1463612084 source:c:\users\resobyte\desktop\resat\hash\hash\hash\src\katlama.cpp
+
+1463611918 source:c:\users\resobyte\desktop\resat\hash\hash\hash\src\ogrencibilgileri.cpp
+
+1463700548 source:c:\users\resobyte\desktop\resat\hash\hash\hash\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	"OgrenciBilgileri.h"
+	"Katlama.h"
+	"BolenKalan.h"
+	"KareOrtasi.h"
+
+1463697633 c:\users\resobyte\desktop\resat\hash\hash\hash\include\ogrencibilgileri.h
+	<iostream>
+	<string>
+
+1463694986 c:\users\resobyte\desktop\resat\hash\hash\hash\include\katlama.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463697633 c:\users\resobyte\desktop\resat\hash\hash\hash\include\bolenkalan.h
+	<iostream>
+	<fstream>
+	<string>
+
+1463695141 c:\users\resobyte\desktop\resat\hash\hash\hash\include\kareortasi.h
+	<iostream>
+	<fstream>
+	<string>
+
